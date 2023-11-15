@@ -1,0 +1,11 @@
+Model Information:
+* title:	Paper Mario Scene
+* source:	https://sketchfab.com/3d-models/paper-mario-scene-92fe105e787f4bdc83aa88feb0bc4eb4
+* author:	3DigitalArtist (https://sketchfab.com/3DigitalArtist)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Paper Mario Scene" (https://sketchfab.com/3d-models/paper-mario-scene-92fe105e787f4bdc83aa88feb0bc4eb4) by 3DigitalArtist (https://sketchfab.com/3DigitalArtist) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
